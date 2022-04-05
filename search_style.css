@@ -1,0 +1,58 @@
+
+div.container-search{
+    position: relative;
+    padding: 200px;
+    text-align: center;
+    background-color: sandybrown;
+}
+form
+{
+    text-align: center;
+}
+
+form > p {
+    font-size: 50px;
+    font-weight: 700;
+    color: saddlebrown;
+
+}
+#input-search-1{
+    margin-bottom: 10px;
+    width: 70%;
+    height: 50px;
+}
+
+#input-search-2{
+    position: relative;
+    width: 50%;
+    height: 40px;
+}
+
+#fullpagediv{
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    background-color:sandybrown;
+}
+
+div.obenrechts{
+    text-align: right;
+    margin: 1%;
+    font-size: 20px;
+}
+
+div.obenrechts > a{
+    color: saddlebrown;
+}
+
+div.obenrechts > a:hover{
+    color: blueviolet;
+}
+
+#luckyform{
+    width: 20%;
+    margin-top: 10px;
+    position: relative;
+    margin-left: 40%;
+}
+
