@@ -1,0 +1,58 @@
+
+
+div.container-advanced{
+    position: relative;
+    background-color: sandybrown;
+    padding-top: 10%;
+    padding-left: 20%;
+}
+
+
+label{
+    width: 20%;
+}
+
+
+form > input{
+    width: 40%;
+}
+
+#submit1{
+    position: relative;
+    height: 20%;
+    width: 20%;
+    background-color: skyblue;
+}
+
+#submit1:hover{
+    position: relative;
+    height: 20%;
+    width: 20%;
+    background-color: white;
+}
+
+#divsubmit{
+    width: 100%;
+    margin-left: 40.45%;
+}
+
+#fullpagediv{
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    background-color:sandybrown;
+}
+
+#obenrechts{
+    text-align: right;
+    margin: 1%;
+    font-size: 20px;
+}
+
+#obenrechts > a{
+    color: saddlebrown;
+}
+
+#obenrechts > a:hover{
+    color: blueviolet;
+}
